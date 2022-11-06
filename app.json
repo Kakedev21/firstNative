@@ -3,8 +3,7 @@
     "name": "nativecor",
     "slug": "nativecor",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "backgroundColor": "#000",
+    "assetBundlePatterns": ["**/*"]
   }
 }
